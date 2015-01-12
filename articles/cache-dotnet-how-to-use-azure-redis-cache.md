@@ -291,6 +291,7 @@ follow these links to learn how to do more complex caching tasks.
 
 -	Learn more about the StackExchange.Redis client: [StackExchange.Redis cache client documentation][]
 -	See the [redis][] documentation and read about [redis data types][] and [a fifteen minute introduction to Redis data types][].
+-   How to retrieve Azure Redis connection string and use it to Redsmin: [Azure Redis with Redsmin][]
 -   See the MSDN Reference: [Azure Redis Cache][]
 
 
@@ -379,3 +380,5 @@ follow these links to learn how to do more complex caching tasks.
 [a fifteen minute introduction to Redis data types]: http://redis.io/topics/data-types-intro
 
 [Windows Azure Websites: How Application Strings and Connection Strings Work]: http://azure.microsoft.com/blog/2013/07/17/windows-azure-web-sites-how-application-strings-and-connection-strings-work/
+
+[Azure Redis with Redsmin][https://redsmin.uservoice.com/knowledgebase/articles/485711-how-to-connect-redsmin-to-azure-redis-cache]
